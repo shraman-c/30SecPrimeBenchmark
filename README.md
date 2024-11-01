@@ -1,3 +1,5 @@
+#30 Seconds Prime numbers Benchmark for Arduino and ESP32
+
 This repository provides a benchmark to measure the performance of Arduino and ESP32 boards in calculating prime numbers within a 30-second timeframe. The code is designed to be efficient and reliable, leveraging optimization techniques to maximize the number of primes found.
 
 Hardware Requirements
