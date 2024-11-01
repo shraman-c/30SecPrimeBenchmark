@@ -48,8 +48,11 @@ The is_prime function uses a loop that iterates up to the square root of the num
 ## Additional Considerations
 
 Board Performance: The performance of the benchmark can vary depending on the specific board model and clock speed.
+
 Power Consumption: Be mindful of power consumption, especially for battery-powered devices.
+
 Compiler Optimization: Enable compiler optimizations to further improve performance.
+
 Memory Usage: Consider memory constraints, especially for smaller boards.
 
 ## Contributing
