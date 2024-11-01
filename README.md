@@ -36,9 +36,14 @@ The benchmark will start, and the number of primes found within 30 seconds will 
 
 The code incorporates several optimizations to improve performance:
 
-Early Termination: The algorithm checks for divisibility by 2 early on, eliminating even numbers.
-Divisor Increment: The divisor is incremented by 2 in each iteration, as even numbers beyond 2 are not prime divisors.
-Efficient Prime Checking: The is_prime function uses a loop that iterates up to the square root of the number, reducing unnecessary checks.
+### Early Termination: 
+The algorithm checks for divisibility by 2 early on, eliminating even numbers.
+
+### Divisor Increment: 
+The divisor is incremented by 2 in each iteration, as even numbers beyond 2 are not prime divisors.
+
+### Efficient Prime Checking: 
+The is_prime function uses a loop that iterates up to the square root of the number, reducing unnecessary checks.
 
 ## Additional Considerations
 
