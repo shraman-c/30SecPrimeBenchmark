@@ -57,3 +57,15 @@ Memory Usage: Consider memory constraints, especially for smaller boards.
 
 ## Contributing
 We welcome contributions to improve the benchmark's accuracy, performance, and user experience. Feel free to submit pull requests or report issues on the GitHub repository.
+
+## Screenshots 
+
+### Arduino Uno (SMD Clone)
+![Arduino_IDE_mbkx47d6Du](https://github.com/user-attachments/assets/0f8adc77-248f-4d48-960f-01664d778807)
+
+### Arduino Nano (Clone - Old Bootloader)
+![image](https://github.com/user-attachments/assets/778a1da9-dd39-46f5-9b05-56df109d2a97)
+
+### ESP 32 DEVKITV1
+![image](https://github.com/user-attachments/assets/d908f8c3-febe-4c12-b780-a7b473cff24e)
+
