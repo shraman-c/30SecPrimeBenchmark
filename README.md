@@ -4,14 +4,14 @@ This repository provides a benchmark to measure the performance of Arduino board
 
 ## Hardware Requirements
 
-Arduino board (e.g., Uno, Mega, Nano),
-ESP32 board (e.g., ESP32 Dev Kit C),
-USB cable
+- Arduino board (e.g., Uno, Mega, Nano),
+- ESP32 board (e.g., ESP32 Dev Kit C),
+- USB cable
 
 ## Software Requirements
 
-Arduino IDE
-ESP-IDF (for ESP32 development) (or install arduino-esp32 from Board Manager in Arduino IDE)
+- Arduino IDE
+- ESP-IDF (for ESP32 development) (or install arduino-esp32 from Board Manager in Arduino IDE)
 
 ## How to Use
 
