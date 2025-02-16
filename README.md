@@ -4,8 +4,8 @@ This repository provides a benchmark to measure the performance of Arduino and E
 
 ## Hardware Requirements
 
-Arduino board (e.g., Uno, Mega, Nano)
-ESP32 board (e.g., ESP32 Dev Kit C)
+Arduino board (e.g., Uno, Mega, Nano),
+ESP32 board (e.g., ESP32 Dev Kit C),
 USB cable
 
 ## Software Requirements
