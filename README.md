@@ -38,15 +38,24 @@ The code incorporates several optimizations to improve performance:
 #### Square Root Limitation: The loop runs up to the square root of the number, reducing the number of iterations.
 
 ## Screenshots
-Arduino Uno (Clone - DIP - ATMEL MEGA16u2)
+### Arduino Uno (Clone - DIP - ATMEL MEGA16u2)
+
 ![Arduino UNO DIP](https://github.com/user-attachments/assets/588e7735-2b31-4793-84c6-542d316ee9bf)
-Arduino Uno (Clone - SMD - CH340G)
+
+### Arduino Uno (Clone - SMD - CH340G)
+
 ![Arduino UNO SMD](https://github.com/user-attachments/assets/7c145eba-02be-41ba-9ca1-f91a7f158d47)
-Arduino Nano (Clone -CH340G - Old Bootloader)
+
+### Arduino Nano (Clone -CH340G - Old Bootloader)
+
 ![Arduino Nano](https://github.com/user-attachments/assets/c067fc56-4a49-4e6d-8622-dd146ded04c8)
-ESP32-WROOM-32 WCH CH9102 USB to serial bridge chip
+
+### ESP32-WROOM-32 WCH CH9102 USB to serial bridge chip
+
 ![ESP32-WROOM-32 WCH CH9102 USB to serial bridge chip](https://github.com/user-attachments/assets/03af563d-bbac-4f30-8939-cc8f108ad79e)
-ESP32-WROOM-CP2102
+
+### ESP32-WROOM-CP2102
+
 ![ESP32-WROOM-CP2102](https://github.com/user-attachments/assets/9ebcc3c5-cb6f-4899-957c-9de4456c8a3f)
 
 ## Contributing
@@ -55,4 +64,4 @@ We welcome contributions to improve the benchmark's accuracy, performance, and u
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-**Full Changelog**: [Changelog.MD](https://github.com/shraman-c/30SecPrimeBenchmark/blob/main/Changelog.md)
+**Detailed Changelog**: [Changelog.MD](https://github.com/shraman-c/30SecPrimeBenchmark/blob/main/Changelog.md)
