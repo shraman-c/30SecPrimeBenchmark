@@ -50,6 +50,10 @@ The code incorporates several optimizations to improve performance:
 
 ![Arduino Nano](https://github.com/user-attachments/assets/c067fc56-4a49-4e6d-8622-dd146ded04c8)
 
+### Arduino Nano (Clone - CH340G - New Bootloader)
+![image](https://github.com/user-attachments/assets/5a5a8047-4fe3-4d06-8d59-8185818b3312)
+
+
 ### ESP32-WROOM-32 WCH CH9102 USB to serial bridge chip
 
 ![ESP32-WROOM-32 WCH CH9102 USB to serial bridge chip](https://github.com/user-attachments/assets/03af563d-bbac-4f30-8939-cc8f108ad79e)
