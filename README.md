@@ -46,11 +46,14 @@ The code incorporates several optimizations to improve performance:
 
 ![Arduino UNO SMD](https://github.com/user-attachments/assets/7c145eba-02be-41ba-9ca1-f91a7f158d47)
 
-### Arduino Nano (Clone -CH340G - Old Bootloader)
+### Arduino Nano (Clone -MINI USB - CH340G - Old Bootloader)
 
 ![Arduino Nano](https://github.com/user-attachments/assets/c067fc56-4a49-4e6d-8622-dd146ded04c8)
 
-### Arduino Nano (Clone - CH340G - New Bootloader)
+### Arduino Nano (Clone - MINI USB - CH340G - New Bootloader)
+![image](https://github.com/user-attachments/assets/6e4a3fd9-308f-4f4c-acd6-403002349654)
+
+### Arduino Nano (MICRO USB - Clone - CH340G - New Bootloader)
 ![image](https://github.com/user-attachments/assets/5a5a8047-4fe3-4d06-8d59-8185818b3312)
 
 
